@@ -1,0 +1,8 @@
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet ef
+dotnet ef migrations add MyFirstMigration
+dotnet ef database update
+#dotnet ef migrations add IdentityMigration --context CatalogIdentityContext
+#dotnet ef database update --context CatalogIdentityContext
