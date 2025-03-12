@@ -1,0 +1,184 @@
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.Development.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.staticwebassets.endpoints.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.exe
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.deps.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.runtimeconfig.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.pdb
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Confluent.Kafka.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.AssemblyReference.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfoInputs.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfo.cs
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.CoreCompileInputs.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cs
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.sourcelink.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\scopedcss\bundle\OrderAPIV1.styles.css
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.development.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderAPIV1.props
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderAPIV1.props
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderAPIV1.props
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.Up2Date
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\refint\OrderAPIV1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.pdb
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.genruntimeconfig.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\ref\OrderAPIV1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.exe
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.deps.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.runtimeconfig.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\scopedcss\bundle\OrderAPIV1.styles.css
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderAPIV1.props
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderAPIV1.props
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderAPIV1.props
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.Up2Date
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\refint\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\ref\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.exe
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.deps.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.runtimeconfig.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\scopedcss\bundle\OrderAPIV1.styles.css
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.OrderAPIV1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderAPIV1.props
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderAPIV1.props
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderAPIV1.props
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.csproj.Up2Date
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\refint\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\OrderAPIV1.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\OrderAPIV1\obj\Debug\net8.0\ref\OrderAPIV1.dll

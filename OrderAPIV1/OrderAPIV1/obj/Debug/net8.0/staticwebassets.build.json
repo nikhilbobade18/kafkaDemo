@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3WOWARyejZ9kZlWRHp5JKt3oW+TeMZ68FbsjYzRBySU=",
+  "Source": "OrderAPIV1",
+  "BasePath": "_content/OrderAPIV1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

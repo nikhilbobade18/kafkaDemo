@@ -1,0 +1,48 @@
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.deps.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.runtimeconfig.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\appsettings.Development.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\appsettings.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.staticwebassets.endpoints.json
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.exe
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\Confluent.Kafka.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\Microsoft.OpenApi.dll
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\bin\Debug\OrderAPIV1.pdb
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\SiemensAdvanceDotTrainingMar2025\OrderAPIV1\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\appsettings.Development.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\appsettings.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.deps.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.runtimeconfig.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.exe
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\Confluent.Kafka.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\bin\Debug\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\siemensc-advtrainingmar2025-projects (1)\siemensc-advtrainingmar2025-projects\OrderAPIV1\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\appsettings.Development.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\appsettings.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.deps.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.runtimeconfig.json
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.exe
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\Confluent.Kafka.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\bin\Debug\OrderAPIV1.pdb
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\pub_sub_kafka\pub_sub_kafka\OrderAPIV1\obj\Debug\docker-c.35A3FFBA.Up2Date

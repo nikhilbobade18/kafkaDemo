@@ -1,0 +1,10 @@
+services:
+  orderapiv1:
+    image: ${DOCKER_REGISTRY-}orderapiv1
+    build:
+      context: .
+      dockerfile: OrderAPIV1/Dockerfile
+networks: 
+  default: 
+    external: 
+      name: siemensnetwork

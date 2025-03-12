@@ -1,0 +1,10 @@
+services:
+  paymentapi:
+    image: ${DOCKER_REGISTRY-}paymentapi
+    build:
+      context: .
+      dockerfile: PaymentAPI/Dockerfile
+networks: 
+  default: 
+    external: 
+      name: siemensnetwork
