@@ -3,3 +3,12 @@
   docker build -f CustomerAPI/Dockerfile -t customerapi .
 #to create network
 docker network create siemensnetwork
+
+#docker compose for kafka
+docker-compose up
+docker-compose down
+docker-compose up -d   (detach mode)
+
+#list all container
+docker container ls -a
+
